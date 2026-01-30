@@ -91,7 +91,3 @@ This tool is intended for educational and research purposes. Please respect the 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-[MIT License](LICENSE) (or specify your license here)
