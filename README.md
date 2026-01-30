@@ -29,7 +29,11 @@ The repository is published for portfolio and demonstration purposes, showcasing
 ### Prerequisites
 *   Python 3.8 or higher
 *   pip (Python package manager)
-
+*   All required packages are listed in `requirements.txt`.
+    Install them with:
+   ```bash
+   pip install -r requirements.txt
+   ```
 ### Setup Steps
 
 1.  **Clone the Repository**
