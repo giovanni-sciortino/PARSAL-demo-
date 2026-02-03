@@ -16,13 +16,15 @@ The repository is published for portfolio and demonstration purposes, showcasing
     *   MDPI
     *   ArXiv
     *   ACL Anthology
-*   **Modern GUI:** User-friendly interface built with `customtkinter`, featuring dark mode support, real-time search feedback, and easy selection of articles.
+*   **GUI:** User-friendly interface built with `customtkinter`, featuring dark mode support, real-time search feedback, and easy selection of articles.
 *   **Asynchronous Performance:** Utilizes `asyncio` and `aiohttp` for high-speed, parallel searching and downloading of full-text articles (PDF, XML, JSON).
 *   **Advanced Parsing:**
     *   Extracts structured metadata (Title, Authors, Abstract, Keywords, DOI).
     *   **OCR Integration:** Incorporates OCR results (via `olmocr` or raw text) to reconstruct article sections in logical order.
     *   Clean data export to JSON with standardized fields.
 *   **Smart Filtering:** Search by keyword and publication year.
+
+  ![PARSAL_GUI.JPG]
 
 ## 🛠️ Installation
 
