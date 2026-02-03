@@ -6,7 +6,7 @@ It provides a modern graphical user interface and supports asynchronous download
 **This project was developed as part of my Master’s thesis in collaboration with the Chilab research laboratory in University of Palermo.
 The repository is published for portfolio and demonstration purposes, showcasing the architecture and implementation of the system.**
 
-![PARSAL_GUI.jpg]
+![PARSAL GUI](PARSAL_GUI.jpg)
 
 ## 🚀 Key Features
 
